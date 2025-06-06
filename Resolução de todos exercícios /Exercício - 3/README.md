@@ -1,4 +1,4 @@
-# 📝 Exercício 1
+# 📝 Exercício 3
 
 **Enunciado:**
 
